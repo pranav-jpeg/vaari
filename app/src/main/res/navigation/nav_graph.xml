@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+
+    <fragment android:id="@+id/homeFragment"
+        android:name="com.vaari.app.ui.home.HomeFragment"
+        android:label="Search">
+        <action android:id="@+id/action_home_to_result"
+            app:destination="@id/resultFragment"/>
+    </fragment>
+
+    <fragment android:id="@+id/resultFragment"
+        android:name="com.vaari.app.ui.result.ResultFragment"
+        android:label="Result">
+        <argument
+            android:name="cropResult"
+            app:argType="com.vaari.app.model.CropResponse"/>
+    </fragment>
+
+    <fragment android:id="@+id/historyFragment"
+        android:name="com.vaari.app.ui.history.HistoryFragment"
+        android:label="History">
+        <action android:id="@+id/action_history_to_result"
+            app:destination="@id/resultFragment"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="com.vaari.app.ui.home.CameraFragment"
+        android:label="CameraFragment"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="com.vaari.app.ui.settings.LanguageFragment"
+        android:label="@string/select_language" />
+
+</navigation>

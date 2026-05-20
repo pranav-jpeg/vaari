@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pastel_green_light">#E8F5E9</color>
+    <color name="pastel_green">#C8E6C9</color>
+    <color name="pastel_green_medium">#A5D6A7</color>
+    <color name="pastel_mint">#F1F8F1</color>
+    <color name="pastel_mint_dark">#E0F2E1</color>
+
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_green_dark">#388E3C</color>
+
+    <color name="color_green_water">#66BB6A</color>
+    <color name="color_blue_water">#42A5F5</color>
+    <color name="color_grey_water">#90A4AE</color>
+    <color name="color_co2">#FF8A65</color>
+
+    <color name="text_primary">#1B2E1C</color>
+    <color name="text_secondary">#4A6B4C</color>
+    <color name="text_muted">#8A9E8B</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

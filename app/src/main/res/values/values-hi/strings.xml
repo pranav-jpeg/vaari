@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">वारी</string>
+    <string name="app_title">वारी - फसल जल पदचिह्न</string>
+    <string name="app_subtitle">कृषि में जल उपयोग को ट्रैक और कम करें</string>
+    <string name="nav_home">खोज</string>
+    <string name="nav_history">इतिहास</string>
+    <string name="nav_settings">सेटिंग्स</string>
+    <string name="search_hint">फसलें खोजें...</string>
+    <string name="btn_search">खोज</string>
+    <string name="btn_camera">कैमरा</string>
+    <string name="error_empty_search">कृपया फसल का नाम दर्ज करें</string>
+    <string name="error_crop_not_found">फसल नहीं मिली। दूसरा नाम आज़माएं।</string>
+    <string name="error_connection_failed">कनेक्शन विफल। नेटवर्क जांचें।</string>
+    <string name="total_water_footprint">💧 कुल जल पदचिह्न</string>
+    <string name="water_breakdown">📊 जल वितरण</string>
+    <string name="water_saving_tip">💡 जल बचत सुझाव</string>
+    <string name="crop_details">🌍 फसल विवरण</string>
+    <string name="water_green">हरा</string>
+    <string name="water_blue">नीला</string>
+    <string name="water_grey">ग्रे</string>
+    <string name="water_rainwater">वर्षा जल</string>
+    <string name="water_irrigation">सिंचाई</string>
+    <string name="water_pollution">प्रदूषण</string>
+    <string name="water_footprint">जल\nपदचिह्न</string>
+    <string name="label_climate">🌡️ जलवायु: %s</string>
+    <string name="label_irrigation">🚿 सिंचाई: %s</string>
+    <string name="label_scarcity">⚠️ जल संकट: %s</string>
+    <string name="label_season">🌾 कटाई का मौसम: %s</string>
+    <string name="history_title">खोज इतिहास</string>
+    <string name="history_empty">कोई खोज इतिहास नहीं</string>
+    <string name="settings_language">भाषा चुनें</string>
+    <string name="settings_title">सेटिंग्स</string>
+</resources>

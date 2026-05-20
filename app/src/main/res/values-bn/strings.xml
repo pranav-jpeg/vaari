@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_error_format">API ত্রুটি: %1$s</string>
+    <string name="app_name" translatable="false">Vaari</string>
+    <string name="app_subtitle">ওয়াটার ফুটপ্রিন্ট ক্যালকুলেটর</string>
+    <string name="app_title">🌿 Vaari</string>
+    <string name="back">ফিরে যান</string>
+    <string name="blue_water">ব্লু ওয়াটার</string>
+    <string name="blue_water_label">💦 ব্লু</string>
+    <string name="blue_water_sub">সেচ</string>
+    <string name="clear_history">ইতিহাস মুছুন</string>
+    <string name="co2_emission">CO₂ নির্গমন</string>
+    <string name="crop_details">🌍 ফসলের বিবরণ</string>
+    <string name="crop_preview">ফসলের প্রিভিউ</string>
+    <string name="detected_format">🌾 শনাক্ত হয়েছে: %1$s (%2$d%% নির্ভরযোগ্যতা)</string>
+    <string name="error_connection">সংযোগ ব্যর্থ হয়েছে। RetrofitClient.kt-এ আপনার IP পরীক্ষা করুন\n%1$s</string>
+    <string name="error_crop_not_found">ফসল \"%1$s\" পাওয়া যায়নি। অন্য নাম চেষ্টা করুন।</string>
+    <string name="error_enter_crop">দয়া করে ফসলের নাম লিখুন</string>
+    <string name="error_format">ত্রুটি: %1$s</string>
+    <string name="error_load_image">ছবি লোড করা যায়নি</string>
+    <string name="green_water">গ্রিন ওয়াটার</string>
+    <string name="green_water_label">🌧 গ্রিন</string>
+    <string name="green_water_sub">বৃষ্টির পানি</string>
+    <string name="grey_water">গ্রে ওয়াটার</string>
+    <string name="grey_water_label">🌫 গ্রে</string>
+    <string name="grey_water_sub">দূষণ</string>
+    <string name="nav_history">ইতিহাস</string>
+    <string name="nav_home">অনুসন্ধান</string>
+    <string name="no_history">এখনও কোনো অনুসন্ধান নেই।\nশুরু করতে একটি ফসল অনুসন্ধান করুন!</string>
+    <string name="no_history_yet">এখনও কোনো অনুসন্ধানের ইতিহাস নেই।\nশুরু করতে একটি ফসল অনুসন্ধান করুন!</string>
+    <string name="parse_error_format">পার্স ত্রুটি: %1$s</string>
+    <string name="pick_image">গ্যালারি থেকে ছবি বাছুন</string>
+    <string name="pie_blue">ব্লু</string>
+    <string name="pie_green">গ্রিন</string>
+    <string name="pie_grey">গ্রে</string>
+    <string name="search_arrow">→</string>
+    <string name="search_hint">ফসল খুঁজুন (যেমন Rice, Wheat…)</string>
+    <string name="take_photo">ছবি তুলুন</string>
+    <string name="top_labels_format">শীর্ষ লেবেল: %1$s\n(কোনো নির্দিষ্ট ফসল শনাক্ত হয়নি)</string>
+    <string name="total_water_footprint">💧 মোট ওয়াটার ফুটপ্রিন্ট</string>
+    <string name="water_breakdown">📊 পানির বিভাজন</string>
+    <string name="water_footprint">ওয়াটার ফুটপ্রিন্ট</string>
+    <string name="water_footprint_center">ওয়াটার\nফুটপ্রিন্ট</string>
+    <string name="water_saving_tip">💡 পানি সাশ্রয়ের পরামর্শ</string>
+    <string name="select_language">ভাষা নির্বাচন করুন</string>
+    <string name="nav_language">ভাষা</string>
+    <string name="label_climate">🌡️ জলবায়ু: %s</string>
+    <string name="label_irrigation">🚿 সেচ: %s</string>
+    <string name="label_scarcity">⚠️ পানির অভাব: %s</string>
+    <string name="label_season">🌾 ফসল কাটার মৌসুম: %s</string>
+    <string name="water_green">গ্রিন</string>
+    <string name="water_blue">ব্লু</string>
+    <string name="water_grey">গ্রে</string>
+    <string name="settings_language">ভাষা নির্বাচন করুন</string>
+    <string name="settings_title">সেটিংস</string>
+</resources>

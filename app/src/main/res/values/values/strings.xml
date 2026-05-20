@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_error_format">API Error: %1$s</string>
+    <string name="app_name">Vaari</string>
+    <string name="app_subtitle">Water Footprint Calculator</string>
+    <string name="app_title">🌿 Vaari</string>
+    <string name="back">BACK</string>
+    <string name="blue_water">Blue Water</string>
+    <string name="blue_water_label">💦 Blue</string>
+    <string name="blue_water_sub">Irrigation</string>
+    <string name="clear_history">Clear History</string>
+    <string name="co2_emission">CO₂ Emission</string>
+    <string name="crop_details">🌍 Crop Details</string>
+    <string name="crop_preview">Crop preview</string>
+    <string name="detected_format">🌾 Detected: %1$s (%2$d%% confidence)</string>
+    <string name="error_connection">Connection failed. Check your IP in RetrofitClient.kt
+%1$s</string>
+    <string name="error_crop_not_found">Crop "%1$s" not found. Try another name.</string>
+    <string name="error_enter_crop">Please enter a crop name</string>
+    <string name="error_format">Error: %1$s</string>
+    <string name="error_load_image">Could not load image</string>
+    <string name="green_water">Green Water</string>
+    <string name="green_water_label">🌧 Green</string>
+    <string name="green_water_sub">Rainwater</string>
+    <string name="grey_water">Grey Water</string>
+    <string name="grey_water_label">🌫 Grey</string>
+    <string name="grey_water_sub">Pollution</string>
+    <string name="label_climate">🌡 Climate</string>
+    <string name="label_irrigation">🚿 Irrigation</string>
+    <string name="label_scarcity">⚠️ Water Scarcity</string>
+    <string name="label_season">🌾 Harvest Season</string>
+    <string name="nav_history">History</string>
+    <string name="nav_home">Search</string>
+    <string name="no_history">No searches yet.
+Search for a crop to get started!</string>
+    <string name="no_history_yet">No search history yet.
+Search a crop to get started!</string>
+    <string name="parse_error_format">Parse error: %1$s</string>
+    <string name="pick_image">PICK IMAGE FROM GALLERY</string>
+    <string name="pie_blue">Blue</string>
+    <string name="pie_green">Green</string>
+    <string name="pie_grey">Grey</string>
+    <string name="search_arrow">→</string>
+    <string name="search_hint">Search crop (e.g. Rice, Wheat…)</string>
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="top_labels_format">Top labels: %1$s
+(No specific crop detected)</string>
+    <string name="total_water_footprint">💧 Total Water Footprint</string>
+    <string name="water_breakdown">📊 Water Breakdown</string>
+    <string name="water_footprint">Water Footprint</string>
+    <string name="water_footprint_center">Water
+Footprint</string>
+    <string name="water_saving_tip">💡 Water Saving Tip</string>
+</resources>
