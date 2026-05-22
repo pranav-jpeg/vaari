@@ -27,7 +27,7 @@ The project is designed to make agricultural water data easier to understand for
 
 | Home Screen | Result Screen | History Screen |
 |---|---|---|
-| ![Home Screen](docs/screenshots/home.png) | ![Result Screen](docs/screenshots/result.png) | ![History Screen](docs/screenshots/history.png) |
+| ![Home Screen](documentation/screenshots/home.png) | ![Result Screen](documentation/screenshots/result.png) | ![History Screen](documentation/screenshots/history.png) |
 
 ## How It Works
 
