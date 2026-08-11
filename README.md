@@ -23,7 +23,6 @@ The project is designed to make agricultural water data easier to understand for
 
 ## Screenshots
 
-> Replace these placeholders with your actual app screenshots.
 
 | Home Screen | Result Screen | History Screen |
 |---|---|---|
