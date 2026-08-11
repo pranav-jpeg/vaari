@@ -132,4 +132,4 @@ Vaari is developed under the broader water-awareness and clean-technology contex
 
 ## License
 
-This project is for academic use. Add a license here if you plan to publish it publicly.
+This project is for academic use.
