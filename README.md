@@ -82,7 +82,7 @@ Vaari/
 ### Android App Setup
 
 ```bash
-git clone https://github.com/pranav-jpeg/vaari.git
+git clone https://github.com/kemisto17/vaari.git
 cd vaari
 ```
 
